@@ -1,1 +1,1 @@
-Read the vignette after installsing the R library!
+Read the vignette after installing the R library!
