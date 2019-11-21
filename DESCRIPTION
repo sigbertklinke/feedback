@@ -1,0 +1,20 @@
+Package: feedback
+Title: Creates a data set and runs a Shiny app for giving students individual feedback to their test result
+Version: 0.3
+Author: Sigbert Klinke 
+Maintainer: Sigbert Klinke <sigbert@wiwi.hu-berlin.de>
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+Imports: 
+  stringi,
+  rio,
+  shiny,
+  shinydashboard,
+  colorspace
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
